@@ -12,7 +12,7 @@ body:
       options:
         - label: "I have searched the existing issues to avoid duplicates"
           required: true
-
+          
   - type: textarea
     id: describe_bug
     attributes:
