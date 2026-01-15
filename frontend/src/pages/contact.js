@@ -75,9 +75,9 @@ function Contact() {
   const [openIndex, setOpenIndex] = useState(null);
   const faqs = [
     {
-      question: "What is SecureMedAI?",
+      question: "What is CureShieldSynapse?",
       answer:
-        "SecureMedAI is an AI-powered platform that provides health insights, personalized care recommendations, and support tools to empower your health journey.",
+        "CureShieldSynapse is an AI-powered platform that provides health insights, personalized care recommendations, and support tools to empower your health journey.",
     },
     {
       question: "How does AI help improve my healthcare?",
@@ -85,17 +85,17 @@ function Contact() {
         "Our AI analyzes health data to provide tailored insights, track progress, and assist with preventive care while supporting medical decision-making.",
     },
     {
-      question: "Can SecureMedAI replace a doctor?",
+      question: "Can CureShieldSynapse replace a doctor?",
       answer:
-        "No. SecureMedAI is designed to assist and provide insights, but it does not replace professional medical advice. Always consult a healthcare provider for diagnosis and treatment.",
+        "No. CureShieldSynapse is designed to assist and provide insights, but it does not replace professional medical advice. Always consult a healthcare provider for diagnosis and treatment.",
     },
     {
-      question: "Do I need a subscription to use SecureMedAI?",
+      question: "Do I need a subscription to use CureShieldSynapse?",
       answer:
         "Some features may be free, while advanced analytics and personalized care recommendations might require a subscription (depending on the plan).",
     },
     {
-      question: "How can I contact SecureMedAI for support?",
+      question: "How can I contact CureShieldSynapse for support?",
       answer: "You can reach us via Email, LinkedIn, GitHub, or contact page",
     },
   ];

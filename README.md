@@ -1,12 +1,12 @@
-# SecureMedAI
+# CureShieldSynapse
 
-SecureMedAI is an AI-powered healthcare web platform that allows patients to predict possible diseases based on symptoms and seamlessly book appointments with specialized doctors. Built with a focus on real-time dashboards, smart doctor matching, and a user-centric experience.
+CureShieldSynapse is an AI-powered healthcare web platform that allows patients to predict possible diseases based on symptoms and seamlessly book appointments with specialized doctors. Built with a focus on real-time dashboards, smart doctor matching, and a user-centric experience.
 
 ---
 
 ## Overview
 
-SecureMedAI bridges the gap between intelligent diagnosis and timely medical care. Patients receive instant predictions based on symptoms and are connected with top-rated, relevant doctors. Doctors manage appointments and access patient history, while admins oversee the platform.
+CureShieldSynapse bridges the gap between intelligent diagnosis and timely medical care. Patients receive instant predictions based on symptoms and are connected with top-rated, relevant doctors. Doctors manage appointments and access patient history, while admins oversee the platform.
 
 The platform incorporates machine learning models tailored to user roles:
 
@@ -76,7 +76,7 @@ The platform incorporates machine learning models tailored to user roles:
 ```bash
 # Clone the repository
 git clone ""
-cd securemedai
+cd CureShieldSynapse
 
 # Database set up 
 Create a **.env** file with the help of .env.example

@@ -1,6 +1,6 @@
-# 🤝 Contributing to SecureMedAI
+# 🤝 Contributing to CureShieldSynapse
 
-Thank you for your interest in contributing to **SecureMedAI** – your time and effort mean a lot to us! 💜 Whether you're reporting a bug, suggesting an enhancement, or writing your first pull request – you're welcome here. Let’s build a supportive space for contributors of all experience levels. 🚀
+Thank you for your interest in contributing to **CureShieldSynapse** – your time and effort mean a lot to us! 💜 Whether you're reporting a bug, suggesting an enhancement, or writing your first pull request – you're welcome here. Let’s build a supportive space for contributors of all experience levels. 🚀
 
 ---
 
@@ -42,7 +42,7 @@ Here’s a quick overview of the contribution flow:
 
 2. **Clone your fork**:
  ```bash
- git clone https://github.com/SrishtiSonam/SecureMedAI.git
+ git clone https://github.com/SrishtiSonam/CureShieldSynapse.git
  ```
 
 3. **Create a new branch:**
@@ -104,7 +104,7 @@ We aim to keep things smooth and transparent:
 To ensure a smooth and fair contribution process:
 
 * Always **Star and Fork** before contributing.
-* Browse [open issues](https://github.com/SrishtiSonam/SecureMedAI/issues) and comment to get assigned.
+* Browse [open issues](https://github.com/SrishtiSonam/CureShieldSynapse/issues) and comment to get assigned.
 * **One PR per issue** – stay focused and scoped.
 * **Don’t start work on an issue unless you’re assigned.**
 * If you raised an issue, you’ll be assigned by default.

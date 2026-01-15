@@ -44,7 +44,7 @@ function Navbar({ theme = 'light' }){
 
             <h4 className="font-bold">
               <Link to="/" className="nav-link">
-                SecureMedAI
+                CureShieldSynapse
               </Link>
             </h4>
           </div>

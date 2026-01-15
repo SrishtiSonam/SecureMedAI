@@ -8,7 +8,7 @@ class Command(BaseCommand):
         # Test users data
         test_users = [
             {
-                'email': 'patientpatient@securemedai.com',
+                'email': 'patientpatient@CureShieldSynapse.com',
                 'name': 'John Patient',
                 'role': 'PATIENT',
                 'password': 'patient123',
@@ -17,7 +17,7 @@ class Command(BaseCommand):
                 'blood_group': 'A+'
             },
             {
-                'email': 'doctorpatient@securemedai.com',
+                'email': 'doctorpatient@CureShieldSynapse.com',
                 'name': 'Dr. Sarah Smith',
                 'role': 'DOCTOR',
                 'password': 'doctor123',
@@ -26,7 +26,7 @@ class Command(BaseCommand):
                 'blood_group': 'O+'
             },
             {
-                'email': 'adminpatient@securemedai.com',
+                'email': 'adminpatient@CureShieldSynapse.com',
                 'name': 'Admin Manager',
                 'role': 'HOSPITAL_ADMIN',
                 'password': 'admin123',

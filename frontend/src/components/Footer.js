@@ -91,7 +91,7 @@ function Footer({ theme = 'light' }) {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
                   </svg>
                 </div>
-                <h2 className="text-2xl font-bold text-gray-900 dark:text-white">SecureMedAI</h2>
+                <h2 className="text-2xl font-bold text-gray-900 dark:text-white">CureShieldSynapse</h2>
               </div>
               <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed mb-6 max-w-md">
                 Empowering your health journey with AI-driven insights and personalized care. 
@@ -197,7 +197,7 @@ function Footer({ theme = 'light' }) {
         <div className="border-t border-blue-200 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-600 text-sm">
-              <p>© 2025 SecureMedAI. All rights reserved.</p>
+              <p>© 2025 CureShieldSynapse. All rights reserved.</p>
             </div>
             <div className="flex items-center space-x-6 text-sm text-gray-600">
               <a href="#" className="hover:text-blue-600 transition-colors duration-300">Privacy Policy</a>
