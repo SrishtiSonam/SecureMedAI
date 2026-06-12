@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'prediction',
     'authentication',
     'patient_dashboard',
+    'fl_prediction.apps.FlPredictionConfig',
 ]
 
 MIDDLEWARE = [
@@ -182,3 +183,13 @@ SIMPLE_JWT = {
 }
 
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
+
+# Federated Learning model artifacts directory (FL Model/flask/)
+FL_MODEL_DIR = os.environ.get(
+    'FL_MODEL_DIR',
+    str(BASE_DIR.parent / 'FL Model' / 'flask'),
+)
+
+# Tesseract OCR binary path (required on Windows; leave unset on Linux/macOS
+# if tesseract is already on PATH)
+TESSERACT_CMD = os.environ.get('TESSERACT_CMD', '')
